@@ -8,7 +8,7 @@
 
 ## 🚀 Thông tin bản thân
 - 🧑‍💻 Tên đầy đủ của mình là Đinh Ngọc Phúc Thịnh.
-- 🎂 Sinh ngày 12/07/2003. Cự Giải
+- 🎂 Sinh ngày 12/07/2003.
 - 🏡 Đến từ vùng đất 63 Tiền Giang.
 - 🌟 Hiện tại đang là sinh viên năm 4 chuyên ngành Công nghệ phần mềm.
       Là một người ham học hỏi, đồng thời luôn muốn hoàn thiện bản thân cả về chuyên môn lẫn kĩ năng sống. 
