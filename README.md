@@ -10,7 +10,8 @@
 - 🧑‍💻 Tên đầy đủ của mình là Đinh Ngọc Phúc Thịnh.
 - 🎂 Sinh ngày 12/07/2003. Cự Giải
 - 🏡 Đến từ vùng đất 63 Tiền Giang.
-- 🌟 Hiện tại đang là sinh viên năm 4 chuyên ngành Công nghệ phần mềm. Là một người ham học hỏi, đồng thời luôn muốn hoàn thiện bản thân cả về chuyên môn lẫn kĩ năng sống. 
+- 🌟 Hiện tại đang là sinh viên năm 4 chuyên ngành Công nghệ phần mềm.
+      Là một người ham học hỏi, đồng thời luôn muốn hoàn thiện bản thân cả về chuyên môn lẫn kĩ năng sống. 
 - 🌱 Mục tiêu hoàn thiện kỹ năng chuyên môn để trở thành một Fullstack Developer.
 - 📈 Hiện mình đã và đang chuẩn bị cho hành trình tìm kiếm cơ hội việc làm sau khi tốt nghiệp.
 - 🎯 Hướng tới trở thành một người có ích cho xã hội và đóng góp tích cực cho cộng đồng công nghệ.
