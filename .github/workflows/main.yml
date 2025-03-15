@@ -1,8 +1,28 @@
-# 🚀 Chào mừng đến với GitHub của tôi!  
+name: Update README
 
-## 🔥 Thống kê GitHub của tôi:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Cập nhật mỗi ngày vào lúc 00:00
+  workflow_dispatch:  # Cho phép chạy thủ công
 
-## 🏆 Huy hiệu:
-![Followers](https://img.shields.io/github/followers/yourusername?style=social)
-![Repo count](https://img.shields.io/github/repo-count/yourusername)
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate README content
+        run: |
+          echo "## ⏳ Hôm nay là: $(date)" > README.md
+          echo "### 📝 Câu trích dẫn ngẫu nhiên hôm nay:" >> README.md
+          curl -s https://api.quotable.io/random | jq -r '.content' >> README.md
+          cat README.md >> README.md  # Giữ lại nội dung cũ
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Cập nhật README tự động"
+          git push
