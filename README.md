@@ -1,4 +1,4 @@
-<h1 align="center">👋 Chào mừng đến với GitHub của Thịnh Đinh nha!</h1>
+<h1 align="center">👋 Xin chào các bạn đang ghé thăm Thịnh nha </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=22C3DD&center=true&vCenter=true&width=435&lines=I'm+a+Developer;I+Love+Coding;Welcome+to+my+GitHub!">
@@ -7,11 +7,12 @@
 ---
 
 ## 🚀 Thông tin bản thân
-- 🌟 Hiện tại đang là sinh viên năm 4 chuyên ngành Công nghệ phần mềm. Là một người ham học hỏi, đồng thời luôn muốn hoàn thiện bản thân cả về chuyên môn trong công việc lẫn giải quyết vấn đề trong cuộc sống. 
+- 🌟 Tên đầy đủ của mình là Đinh Ngọc Phúc Thịnh. Sinh ngày 12/07/2003. Đến từ vùng đất 63 Tiền Giang.
+- 🌟 Hiện tại đang là sinh viên năm 4 chuyên ngành Công nghệ phần mềm. Là một người ham học hỏi, đồng thời luôn muốn hoàn thiện bản thân cả về chuyên môn lẫn kĩ năng sống. 
 - 🌱 Mục tiêu hoàn thiện kỹ năng chuyên môn để trở thành một Fullstack Developer.
 - 📈 Hiện mình đã và đang chuẩn bị cho hành trình tìm kiếm cơ hội việc làm sau khi tốt nghiệp.
 - 🎯 Hướng tới trở thành một người có ích cho xã hội và đóng góp tích cực cho cộng đồng công nghệ.
-- 💬 Hãy kết nối với tôi qua [Facebook](https://facebook.com/https://www.facebook.com/profile.php?id=100015144465347) | [LinkedIn](https://www.linkedin.com/in/thinh-dinh-aa7051286/)  
+- 💬 Hãy kết nối với mình qua [Facebook](https://facebook.com/https://www.facebook.com/profile.php?id=100015144465347) | [LinkedIn](https://www.linkedin.com/in/thinh-dinh-aa7051286/)  
 - 📫 Liên hệ qua email: `pthinhthi@gmail.com`  
 
 ---
@@ -70,13 +71,9 @@
 
 ---
 
-## 🔥 Contact Me  
-<p align="center">
-  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-<p align="center">
-  <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+📌 Sở thích
+🎮 Thích trò chuyện về game và chơi game cùng với mọi người.
+📚 Đọc sách về kỹ năng cần có trong cuộc sống.
+🤝 Kết nối và trao đổi với những bạn bè cùng đam mê trong ngành.
+🤾‍♂️ Thích tham gia các hoạt động thể dục thể thao cùng mọi người.
+🎴 Sưu tầm Trading Card Game.
