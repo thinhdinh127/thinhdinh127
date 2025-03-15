@@ -11,7 +11,12 @@
 - 🎂 Sinh ngày 12/07/2003.
 - 🏡 Đến từ vùng đất 63 Tiền Giang.
 - 🌟 Hiện tại đang là sinh viên năm 4 chuyên ngành Công nghệ phần mềm.
-      Là một người ham học hỏi, đồng thời luôn muốn hoàn thiện bản thân cả về chuyên môn lẫn kĩ năng sống. 
+      Là một người ham học hỏi, đồng thời luôn muốn hoàn thiện bản thân cả về chuyên môn lẫn kĩ năng sống.
+  
+---
+
+
+## 💼 Mục tiêu
 - 🌱 Mục tiêu hoàn thiện kỹ năng chuyên môn để trở thành một Fullstack Developer.
 - 📈 Hiện mình đã và đang chuẩn bị cho hành trình tìm kiếm cơ hội việc làm sau khi tốt nghiệp.
 - 🎯 Hướng tới trở thành một người có ích cho xã hội và đóng góp tích cực cho cộng đồng công nghệ.
@@ -20,6 +25,14 @@
 
 ---
 
+## 📱 Thông tin liên hệ
+- 💬 Hãy kết nối với mình qua [Facebook](https://facebook.com/https://www.facebook.com/profile.php?id=100015144465347) | [LinkedIn](https://www.linkedin.com/in/thinh-dinh-aa7051286/)  
+- 📫 Liên hệ qua email: `pthinhthi@gmail.com`
+
+  
+---
+
+  
 ## 💻 Kỹ năng chuyên môn
 
 **Ngôn ngữ lập trình:**  
@@ -43,19 +56,19 @@
 
 ---
 
-
 ## 📚 Kiến thức bổ sung
 
 - 🌱 Ngoài những kiến thức và kĩ năng chuyên ngành Công nghệ phần mềm mình còn được học và tự tìm hiểu thêm về các mảng như: Mạng máy tính, AI, IoT, BlockChain.
 - 📈 Dự định tìm hiểu về mảng Data.
--...
+- ...
   
 ---
+
 ## 🌍 Kỹ năng mềm
--🎤 Thuyết trình: Tự tin và đã thực hiện nhiều bài thuyết trình trong các dự án cá nhân và nhóm trong nhiều lĩnh vực.
--💬 Giao tiếp và làm việc nhóm: Có khả năng truyền đạt ý tưởng rõ ràng, biết lắng nghe các chia sẻ và giải quyết vấn đề của các thành viên trong nhóm để đạt được mục tiêu chung.
--🧠 Giải quyết vấn đề: Phân tích và đưa ra giải pháp hợp lý trong các tình huống gặp phải trong công việc và cuộc sống.
--🔍 Khác: có khả năng sáng tạo đề ra những ý tưởng đột phá khi cần thiết trong quá trình học tập.
+- 🎤 Thuyết trình: Tự tin và đã thực hiện nhiều bài thuyết trình trong các dự án cá nhân và nhóm trong nhiều lĩnh vực.
+- 💬 Giao tiếp và làm việc nhóm: Có khả năng truyền đạt ý tưởng rõ ràng, biết lắng nghe các chia sẻ và giải quyết vấn đề của các thành viên trong nhóm để đạt được mục tiêu chung.
+- 🧠 Giải quyết vấn đề: Phân tích và đưa ra giải pháp hợp lý trong các tình huống gặp phải trong công việc và cuộc sống.
+- 🔍 Khác: có khả năng sáng tạo đề ra những ý tưởng đột phá khi cần thiết trong quá trình học tập.
 
 ---
 
