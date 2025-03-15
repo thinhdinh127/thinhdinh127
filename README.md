@@ -20,8 +20,7 @@
 - 🌱 Mục tiêu hoàn thiện kỹ năng chuyên môn để trở thành một Fullstack Developer.
 - 📈 Hiện mình đã và đang chuẩn bị cho hành trình tìm kiếm cơ hội việc làm sau khi tốt nghiệp.
 - 🎯 Hướng tới trở thành một người có ích cho xã hội và đóng góp tích cực cho cộng đồng công nghệ.
-- 💬 Hãy kết nối với mình qua [Facebook](https://facebook.com/https://www.facebook.com/profile.php?id=100015144465347) | [LinkedIn](https://www.linkedin.com/in/thinh-dinh-aa7051286/)  
-- 📫 Liên hệ qua email: `pthinhthi@gmail.com`  
+ 
 
 ---
 
