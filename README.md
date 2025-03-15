@@ -7,7 +7,9 @@
 ---
 
 ## 🚀 Thông tin bản thân
-- 🌟 Tên đầy đủ của mình là Đinh Ngọc Phúc Thịnh. Sinh ngày 12/07/2003. Đến từ vùng đất 63 Tiền Giang.
+- 🧑‍💻 Tên đầy đủ của mình là Đinh Ngọc Phúc Thịnh.
+- 🎂 Sinh ngày 12/07/2003. Cự Giải
+- 🏡 Đến từ vùng đất 63 Tiền Giang.
 - 🌟 Hiện tại đang là sinh viên năm 4 chuyên ngành Công nghệ phần mềm. Là một người ham học hỏi, đồng thời luôn muốn hoàn thiện bản thân cả về chuyên môn lẫn kĩ năng sống. 
 - 🌱 Mục tiêu hoàn thiện kỹ năng chuyên môn để trở thành một Fullstack Developer.
 - 📈 Hiện mình đã và đang chuẩn bị cho hành trình tìm kiếm cơ hội việc làm sau khi tốt nghiệp.
@@ -38,6 +40,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
 
+---
+
+
 ## 📚 Kiến thức bổ sung
 
 - 🌱 Ngoài những kiến thức và kĩ năng chuyên ngành Công nghệ phần mềm mình còn được học và tự tìm hiểu thêm về các mảng như: Mạng máy tính, AI, IoT, BlockChain.
@@ -45,11 +50,11 @@
 -...
   
 ---
-🌍 Kỹ năng mềm
-🎤 Thuyết trình: Tự tin và đã thực hiện nhiều bài thuyết trình trong các dự án cá nhân và nhóm trong nhiều lĩnh vực.
-💬 Giao tiếp và làm việc nhóm: Có khả năng truyền đạt ý tưởng rõ ràng, biết lắng nghe các chia sẻ và giải quyết vấn đề của các thành viên trong nhóm để đạt được mục tiêu chung.
-🧠 Giải quyết vấn đề: Phân tích và đưa ra giải pháp hợp lý trong các tình huống gặp phải trong công việc và cuộc sống.
-🔍 Khác: có khả năng sáng tạo đề ra những ý tưởng đột phá khi cần thiết trong quá trình học tập.
+## 🌍 Kỹ năng mềm
+-🎤 Thuyết trình: Tự tin và đã thực hiện nhiều bài thuyết trình trong các dự án cá nhân và nhóm trong nhiều lĩnh vực.
+-💬 Giao tiếp và làm việc nhóm: Có khả năng truyền đạt ý tưởng rõ ràng, biết lắng nghe các chia sẻ và giải quyết vấn đề của các thành viên trong nhóm để đạt được mục tiêu chung.
+-🧠 Giải quyết vấn đề: Phân tích và đưa ra giải pháp hợp lý trong các tình huống gặp phải trong công việc và cuộc sống.
+-🔍 Khác: có khả năng sáng tạo đề ra những ý tưởng đột phá khi cần thiết trong quá trình học tập.
 
 ---
 
